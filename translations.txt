@@ -1,0 +1,121 @@
+# This file translates French values from the MAC datasets into English. The program reads this file automatically when it starts.
+
+
+# Genre (Gender)
+# ------------------------------------------------------------------
+
+Masculin = male
+Féminin = female
+Collectif = collective
+N/D = n/a
+Non-binaire = non-binary
+
+
+# Nationalites (Nationalities)
+# ------------------------------------------------------------------
+
+Albanaise = albanian
+Allemande = german
+Américaine = american
+Argentine = argentinian
+Australienne = australian
+Autrichienne = austrian
+Belge = belgian
+Brésilienne = brazilian
+Britannique = british
+Canadienne = canadian
+Chilienne = chilean
+Chinoise = chinese
+Congolaise = congolese
+Coréenne = korean
+Croate = croatian
+Cubaine = cuban
+Danoise = danish
+Dominicaine = dominican
+Écossaise = scottish
+Érythréenne = eritrean
+Espagnole = spanish
+Finlandaise = finnish
+Française = french
+Ghanéenne = ghanaian
+Grecque = greek
+Haïtienne = haitian
+Hongroise = hungarian
+Indienne = indian
+Indonésienne = indonesian
+Iranienne = iranian
+Irlandaise = irish
+Islandaise = icelandic
+Israélienne = israeli
+Italienne = italian
+Japonaise = japanese
+Kanyane = kenyan
+Lettone = latvian
+Libanaise = lebanese
+Marocaine = moroccan
+Mexicaine = mexican
+Néerlandaise = dutch
+Néo-Zélandaise = new zealander
+Norvégienne = norwegian
+Péruvienne = peruvian
+Polonaise = polish
+Roumaine = romanian
+Russe = russian
+Scandinave = scandinavian
+Serbe = serbian
+Slovaque = slovak
+Sud-africaine = south african
+Suédoise = swedish
+Suisse = swiss
+Tchécoslovaque = czechoslovak
+Tchèque = czech
+Turque = turkish
+Ukrainienne = ukrainian
+Vénézuélienne = venezuelan
+Vietnamienne = vietnamese
+Yougoslave = yugoslav
+
+
+# Peuples Autochtones (Indigenous peoples)
+# ------------------------------------------------------------------
+
+Algonquin = algonquin
+Anishinaabe = anishinaabe
+Anishinaabe Saulteaux = anishinaabe saulteaux
+Cree = cree
+Dane-zaa = dane-zaa
+Haïda = haida
+Inuit = inuit
+Kanien'kehá:ka = kanien'kehá:ka
+Kaska Dena = kaska dena
+Kwakwaka'wakw = kwakwaka'wakw
+Métis = métis
+Mi'gmaw = mi'gmaw
+Nation Wendat = wendat nation
+Omeskêko Ininiwak = omeskêko ininiwak
+Saulteaux = saulteaux
+
+
+# Categorie (Category)
+# ------------------------------------------------------------------
+
+Dessin = drawing
+Estampe = print
+Fibre/Papier-matière = fibre/paper
+Installation = installation
+Livre/Album = book/album
+Noveaux médias = new media
+Peinture = painting
+Photographie = photography
+Sculpture = sculpture
+Situation = situation
+Techniques mixtes = mixed media
+Vidéo/Film = video/film
+
+
+# Departement (Museum department)
+# ------------------------------------------------------------------
+
+Art contemporain canadien = canadian contemporary art
+Art contemporain international = international contemporary art
+Art contemporain québécois = quebec contemporary art
